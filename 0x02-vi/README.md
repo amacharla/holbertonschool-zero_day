@@ -1,0 +1,1 @@
+this is a directory about VI. where i will learn how to use the vi text editor.
